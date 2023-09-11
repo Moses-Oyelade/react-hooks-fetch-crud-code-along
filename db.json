@@ -35,6 +35,42 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Fulani Yogurt",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Fulani awara",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "Fulani awara",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "Cookies",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "Soymilk",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "Soymilk",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 12
     }
   ]
 }
